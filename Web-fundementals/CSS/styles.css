@@ -1,0 +1,42 @@
+
+div 
+{padding: 15px;
+    margin: 15px;
+}
+#b1{
+    background-color: black;
+    text-align: left;
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+
+
+}
+
+#b2{
+    background-color: rgb(204, 39, 204);
+    text-align: center;
+
+}
+#b3{
+    text-align: right;
+    text-decoration: underline;
+   
+
+}
+#whiter{
+    color: white;
+}
+#white{
+    color: white;
+
+}
+h1{
+    color: aquamarine;
+
+}
+
+#text-black{
+    color: #000;
+
+}
