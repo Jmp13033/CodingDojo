@@ -23,8 +23,7 @@
 .nav-links li
 {
     display: inline-block;
-    padding: 2px;
-    margin: 5px;
+    padding: 6px;
     list-style: none;
     font-size: large;
     font-family: 'Roboto', sans-serif;
@@ -45,9 +44,17 @@ a:hover{
 
 .btn
 {
-    background-color: wheat;
+    height: 35px;
+    width: 100px;
+    background-color: #17a2b8;
+    color: #ffffff;
     border: none;
-    font-style: italic;
+    font-size: 16px;
+    box-shadow: 5px 5px #000000;
     
+
+}
+.nav-title{
+    margin-left: 20px;
 
 }
