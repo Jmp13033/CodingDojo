@@ -1,0 +1,49 @@
+body{
+    
+
+}
+
+
+.div-1
+{
+    max-width: 600px;
+    max-height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: blue;
+    height: 400%;
+
+}
+.pic{
+    
+    width: 100px;
+    height: 100px;
+    padding-top: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.div-2
+{
+    margin-right: 15px;
+    max-width: 600px;
+    max-height: 500px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.div-3
+{
+    max-width: 600px;
+    max-height: 500px;
+    display: flex;
+    justify-content: space-around;
+    background-color:pink;
+    height: 400%;
+    align-items: center;
+
+}
