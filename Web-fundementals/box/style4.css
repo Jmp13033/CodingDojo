@@ -12,21 +12,23 @@
 
 .nav-links {
     display: flex;
-    justify-content: space-between;
     margin:0;
     padding: 0;
-    list-style: none;
+    align-items: center;
+    
+
     
 
 
 }
 .nav-links li
 {
-    display: inline-block;
+    
     padding: 6px;
     list-style: none;
     font-size: large;
     font-family: 'Roboto', sans-serif;
+    align-items: center;
 
 }
 
