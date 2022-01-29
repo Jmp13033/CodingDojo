@@ -1,0 +1,336 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+
+.navbar{
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100px;
+
+}
+
+.profile{
+    padding: 3rem;
+    font-size: 1.5rem;
+    color: white;
+
+
+
+}
+
+
+.nav-bar-links ul{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    
+
+}
+
+.nav-bar-links ul li{
+    list-style: none;
+
+
+
+}
+
+.nav-bar-links li a
+{
+
+    display: block;
+    text-decoration: none;
+    padding: 1rem;
+    color: white;
+
+
+}
+
+.nav-bar-links li:hover
+{
+    background-color: gray;
+
+
+}
+
+.btn
+{
+    margin: 40px;
+    height: 30px;
+    width: 70px;
+
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+
+}
+.container-1{
+
+    height: 600px;
+    width: 400px;
+   
+    margin-right: 3%;
+
+}
+
+
+.header{
+    background-color: royalblue;
+    width: 100%;
+    height: 120px;
+
+}
+.image {
+    position: relative;
+    left: 30px;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 60px;
+}
+
+
+.body-2 {
+    height: 200px;
+    width: 100%;
+    background-color: green;
+}
+
+
+.body-3{
+    height: 200px;
+    width: 100%;
+    background-color: pink;
+    margin-top: 40px;
+
+}
+.container-2{
+    height: 600px;
+    width: 400px;
+    
+
+}
+
+
+.body-4
+{
+    width: 300px;
+    height: 200px;
+    background-color: red;
+
+}
+
+
+.body-5
+{
+    margin-top: 90px;
+    width: 300px;
+    height: 300px;
+    
+
+}
+
+.header-2
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background-color: gray
+
+}
+
+.body-6     
+{
+    width: 100%;
+    height: 250px;
+   
+    border: solid 2px blueviolet;
+    
+
+}
+.Jane 
+{
+    margin-left: 50px;
+    padding-top: 40px;
+
+}
+.map
+{
+    margin-top: 15px;
+    margin-left: 50px;
+    width: 20px;
+    height: 20px;
+
+}
+#developer {
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 40px;
+
+}
+
+.gear {
+    margin-left: 39px;
+    width: 20px;
+    height: 20px;
+}
+
+.header-3
+{
+    display: flex;
+    padding-left: 16px;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: black;
+
+}
+
+#education
+{
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 40px;
+    color: beige;
+
+
+}
+
+
+#coding
+{
+    margin-left: 22px;
+
+}
+#dates{
+    margin-left: 23px;
+    padding-top: 10px;
+}
+
+.px-15
+{
+    font-size: 15px;
+
+}
+
+#black {
+    margin-left: 23px;
+    padding-top: 10px;
+    font-weight: 600;
+}
+.head
+{
+    padding-top: 10px;
+    justify-content: center;
+    display: flex;
+    height: 50px;
+    width: 100%;
+    background-color: blue ;
+
+}
+
+
+#two{
+    display: flex;
+    justify-content: center;
+    
+    background-color: green;
+    border-radius: 50%;
+    margin-right: 15px;
+    height: 20px;
+    width: 20px;
+
+
+}
+
+.connections{
+    padding-top: 10px;
+
+}
+
+.todd
+{
+    display: flex;
+   justify-content: space-around;
+    
+   
+
+}
+.todd-2
+{
+    margin-left: 10px;
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+
+}
+.align {
+    display: flex;
+    align-items: center;
+
+}
+
+#five
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-left: 17px;
+    border-radius: 70%;
+    width: 60px;
+    height: 30px;
+    background-color: rgb(146, 109, 109);
+   
+
+}
+#your-connections
+{
+    margin-left: 14px;
+
+}
+.header-5
+{
+    margin-top: 10px;
+    width: 100%;
+    height: 50px;
+    background-color: honeydew;
+
+}
+
+.view 
+{
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
