@@ -12,7 +12,6 @@
         <div class="main">
         <div class="wrapper">
             <div class="navbar">
-
                 <h1 class="dojonary ">Dojonary</h1>
                 <div> <input type="text" placeholder="search" class="search"></div>
                 <button id="login" onclick='document.getElementById("login").innerHTML="logout"'>login</button>
@@ -35,15 +34,18 @@
                         <button class="likes" onclick='myFunction()'>13 likes</button>
                     </div>
                     <div class="right-contents">
-                        <p> a practitioner skilled in the art<a href="#">Japonses</a> art of </p> <a href="#">ninjutusu</a>
-
+                        <p> a practitioner skilled in the art<a href="#">Japonsese </a> art of </p> <a href="#">ninjutusu</a>
                     </div>
                 </div>
-                <div class="card-containers-bot">
-                    <h1>Ninja</h1>
-                    <p>Plural: Nouns</p>
-                    <button class="likes" onclick='myFunction()'>37 likes</button>
-                    <p> a practitioner skilled in the art<a href="#">Japonses</a> art of </p> <a href="#">ninjutusu</a>
+                <div class="card-containers">
+                    <div class="left-contents">
+                        <h1>Ninja</h1>
+                        <p>Plural:Nouns</p>
+                        <button class="likes" onclick='myFunction()'>37 likes</button>
+                    </div>
+                    <div class="right-contents">
+                        <p> a practitioner skilled in the art <a href="#">Japonses</a> art of </p> <a href="#">  ninjutusu</a>
+                    </div>
                 </div>
 
 
@@ -51,22 +53,16 @@
 
             </div>
             
-            
-            
-            
-            
-            
-            
+        
             <div class="right-side">
 
-                <h1>Dojonary is defined by you</h1>
-                <button> ADD Dictionary</button>
+                <div class="ninjabox">
+                    <h2>Dojonary is defined by you</h2>
+                    <button type="button" id="definition" onclick='document.getElementById("definition").remove()'> ADD Dictionary</button>
+                </div>
 
 
             </div>
-
-
-
 
 
 
